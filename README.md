@@ -52,4 +52,4 @@ Right now, I will keep tracking my advances in HTML and CSS and then will start 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/carolrangel98)
+- Frontend Mentor - [@carolrangel98](https://www.frontendmentor.io/profile/carolrangel98)
