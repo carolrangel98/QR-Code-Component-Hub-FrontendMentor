@@ -24,4 +24,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Desktop View
 
 ![Mobile View](https://i.imgur.com/fh7ehdA.jpg)
+
 Mobile View
