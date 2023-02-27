@@ -20,4 +20,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](QR-Code-Component-Hub-FrontendMentor/images/static-view-desktop.png)
+![Desktop View](https://i.imgur.com/HzpVeP0.png)
+![Mobile View](https://i.imgur.com/HzpVeP0.png)
