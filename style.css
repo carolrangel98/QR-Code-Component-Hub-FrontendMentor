@@ -1,0 +1,43 @@
+* {
+    clear: both;
+}
+@font-face {
+    font-family: "Outfit", sans-serif;
+    src: local("Outfit.ttf") url("font/Outfit.ttf") format("truetype");
+    font-weight: 400, 700;
+}
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-size: 15px;
+    font-family: "Outfit", sans-serif;
+}
+#qr-box img {
+    width: 95%;
+    height: 95%;
+    border-radius: 5%;
+}
+h1 {
+    font-weight: 700;
+    font-size: 1.2em;
+}
+p {
+    color: hsl(220, 15%, 55%);
+    font-size: 0.9em;
+}
+a {
+    text-decoration: none;
+    color:hsl(218, 44%, 22%);
+}
+/* styles */
+#qr-box {
+    width: 235px;
+    margin: 80px auto 0px auto;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 5%;
+    padding: 10px;
+    text-align: center;
+}
+#rodape {
+    text-align: center;
+    font-size: 11px;
+}
